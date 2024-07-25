@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Example for vision/language model inference on continuous video streams
-# python3 -m nano_llm.vision.video  
+# python3 -m nano_llm.vision.video_openbmb  
 #   --video-input /dev/video0  --video-input-width 640 
 #   --video-input-height 480    --video-output display://0 
 #
